@@ -1,4 +1,4 @@
-# Very simple example with JSP and servlets
+# A Very simple example with JSP and servlets
 
 This example shows how to work with Java servlets and JSP pages
 
